@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<connection>
+    <jbdc>
+        <usr>root</usr>
+        <pwd>jesus1234@-</pwd>
+        <url>jdbc:mysql://localhost:3306/ferreteria_san_pedro</url>
+        <driver>com.mysql.jdbc.Driver</driver>
+    </jbdc>
+</connection>
